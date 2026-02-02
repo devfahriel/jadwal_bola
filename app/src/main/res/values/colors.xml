@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="app_background">#F5F7FA</color>
+    <color name="card_background">#FFFFFF</color> <!-- This was a duplicate of 'white' -->
+    <color name="primary_green">#00875A</color>
+
+    <color name="text_primary_dark">#212121</color>
+    <color name="text_secondary_gray">#757575</color>
+
+    <color name="status_live_bg">#FFEBEE</color>
+    <color name="status_live_text">#D32F2F</color>
+    <color name="status_finished_bg">#E8F5E9</color>
+    <color name="status_finished_text">#388E3C</color>
+    <color name="status_upcoming_bg">#F5F5F5</color>
+    <color name="status_upcoming_text">#616161</color>
+
+    <color name="bg_app">#F4F6F8</color>
+
+    <color name="text_primary">#1D1D1F</color>
+    <color name="text_secondary">#86868B</color>
+
+    <color name="live_red_bg">#FFF1F0</color>
+    <color name="live_red_text">#E02020</color>
+
+    <color name="finished_green_bg">#E6F4EA</color>
+    <color name="finished_green_text">#1E8E3E</color>
+
+    <color name="scheduled_gray_bg">#F5F5F5</color>
+    <color name="scheduled_gray_text">#616161</color>
+</resources>
